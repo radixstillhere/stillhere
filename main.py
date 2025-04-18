@@ -5,7 +5,7 @@ from telegram import Bot
 
 # === CONFIG ===
 TOKEN_RESOURCE_ADDRESS = "resource_rdx1tkc3awevlsyxe6rg02a20kr9m3dhagkun8jcd9avqjufep4n9srsuu"
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "7537131365:AAGAOoCc0Ra_IZl-pwJs10t3PHqZYZ9ltRE"
 TELEGRAM_CHANNEL = "@xrdSTILLHERE"
 
 # === INIT ===
